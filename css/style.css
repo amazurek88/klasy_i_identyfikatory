@@ -1,0 +1,17 @@
+.bolded-text {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#introduction {
+    color: crimson;
+}
+
+.info-box {
+    border: 1px solid black;
+}
+
+.alert {
+    background-color: coral;
+    border: 3px solid brown
+}
